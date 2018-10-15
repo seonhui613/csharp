@@ -12,10 +12,8 @@ namespace Day1
         {
             Console.WriteLine("Hello C#~" + args[0]);
             Console.WriteLine("Hi C#~" + args[0]);
-            Console.WriteLine("Hello " +
-                "" +
-                "" +
-                "Hi C#~" + args[0]);
+            Console.WriteLine("Hi sh C#~" + args[0]);
+           
         }
     }
 }
